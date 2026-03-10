@@ -1,36 +1,38 @@
-# 👋 Hi, I'm Niamulhuda Nahid
+# 👋 Hi, I'm <a href="#">Niamulhuda Nahid</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niamulhuda-Nahid&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Niamulhuda-Nahid&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## 🎨 About Me
-Hi! I'm a passionate web developer exploring **Next.js, React, TailwindCSS, and modern web technologies**.  
-I love designing clean UI/UX, building fast apps, and creating tools that make life easier for developers.
+## ✨ Welcome!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=500&lines=Hello+World!+I+am+Niamulhuda+Nahid;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+About+Web+UI%2FUX" alt="Typing SVG"/>
+</p>
 
 ---
 
 ## 💻 Skills
 
-### Frontend
 <p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend
 <p align="center">
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### Tools & Other
 <p align="center">
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -39,19 +41,27 @@ I love designing clean UI/UX, building fast apps, and creating tools that make l
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niamulhuda-Nahid&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Niamulhuda-Nahid&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niamulhuda-Nahid&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niamulhuda-Nahid&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-## 🔗 Connect with me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Niamulhuda-Nahid&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niamulhuda-nahid" target="_blank">
@@ -67,10 +77,16 @@ I love designing clean UI/UX, building fast apps, and creating tools that make l
 
 ---
 
-## ⚡ Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## ⚡ Fun / GIF Section
 
 <p align="center">
   <img src="https://c.tenor.com/8YTO6dlzHfwAAAAC/coding-coder.gif" alt="Coding GIF" width="400"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coffee & Code" width="300"/>
+</p>
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
