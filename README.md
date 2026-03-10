@@ -1,11 +1,15 @@
-# 👋 Hi, I'm <a href="#">Niamulhuda Nahid</a>
+# 👋 Hi, I'm Niamulhuda Nahid
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niamulhuda-Nahid&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 ## ✨ Welcome!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=500&lines=I+am+Niamulhuda+Nahid;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+About+Web+UI%2FUX" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=500&lines=Hello+World!+I+am+Niamulhuda+Nahid;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+About+Web+UI%2FUX" alt="Typing SVG"/>
 </p>
 
 ---
@@ -37,22 +41,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph (Line Chart)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Niamulhuda-Nahid&show_icons=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niamulhuda-Nahid&layout=compact&theme=dracula" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Niamulhuda-Nahid&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Niamulhuda-Nahid&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
 </p>
 
 ---
