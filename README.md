@@ -38,7 +38,7 @@
 ## 📈 Contribution Graph (Line Chart)
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Niamulhuda-Nahid&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Niamulhuda-Nahid&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" width="800"/>
 </p>
 
 ---
@@ -57,7 +57,6 @@
   </a>
 </p>
 
----
 
 ## ⚡ Fun / GIF Section
 
