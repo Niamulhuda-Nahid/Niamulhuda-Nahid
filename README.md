@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Niamulhuda Nahid
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niamulhuda-Nahid&color=blue" alt="Profile Views" />
-</p>
-
----
-
 ## ✨ Welcome!
 
 <p align="center">
