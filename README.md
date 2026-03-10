@@ -9,7 +9,7 @@
 ## ✨ Welcome!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=500&lines=Hello+World!+I+am+Niamulhuda+Nahid;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+About+Web+UI%2FUX" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=500&lines=I+am+Niamulhuda+Nahid;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+About+Web+UI%2FUX" alt="Typing SVG"/>
 </p>
 
 ---
